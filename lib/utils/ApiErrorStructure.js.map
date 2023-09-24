@@ -1,0 +1,1 @@
+{"version":3,"file":"ApiErrorStructure.js","sourceRoot":"","sources":["../../src/utils/ApiErrorStructure.ts"],"names":[],"mappings":";;;AAAA,kCAAkC;AAClC,SAAgB,KAAK,CAAC,OAAc,EAAE,IAAW,EAAE,MAAa;IAC9D,OAAO;QACL,OAAO,EAAE,OAAO;QAChB,IAAI,EAAE,IAAI;QACV,MAAM,EAAE,MAAM;KACf,CAAC;AACJ,CAAC;AAND,sBAMC"}
