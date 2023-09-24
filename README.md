@@ -29,7 +29,7 @@ npm install
 touch .env
 ```
 
-5. Execute o projeto
+5. Execute the project
 
 ```
 npm run start-dev
