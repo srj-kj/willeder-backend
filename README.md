@@ -9,15 +9,15 @@ To run the project on your local machine, follow the instructions below:
 
 ### Backend
 
-1. Clone o repositório do projeto
+1. Clone the respository using
 
 ```
 git clone [<URL_DO_REPOSITORIO_BACKEND>](https://github.com/srj-kj/willeder-backend/)
 ```
-2. Navegue até o diretório do projeto
+2. Navigate to the folder
 
 ```
-cd backend
+cd willeder-backend
 ```
 3. Install the dependencies using
 
